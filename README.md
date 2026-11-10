@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YusraaPeerun
-- 👀 I’m interested in coidng
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
